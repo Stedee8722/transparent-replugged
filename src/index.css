@@ -14,7 +14,7 @@
   --popout: transparent;
   --popoutsize: auto;
   --backgroundposition: center;
-  --popoutblur: 14px;
+  --popoutblur: 10px;
 
   /* Misc */
   --modal-background: transparent;
