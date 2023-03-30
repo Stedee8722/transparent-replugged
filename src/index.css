@@ -20,7 +20,7 @@
 /* Background image */
 .appMount-2yBXZl {
   background-size: cover !important;
-  background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     /*Change the alpha of both to dim the background */
       url("https://i.redd.it/ny0uggux78y41.png") no-repeat center; /*Change the url to any image you want */
 }
