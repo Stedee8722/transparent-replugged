@@ -10,8 +10,11 @@
   --scrollbar-auto-thumb: #000d;
   --scrollbar-auto-track: #0007;
   /* User popout */
-  --profile-body-background-color: transparent;
-  --popoutblur: 4px;
+  /*--profile-body-background-color: transparent;*/
+  --popout: transparent;
+  --popoutsize: auto;
+  --backgroundposition: center;
+  --popoutblur: 14px;
 
   /* Misc */
   --modal-background: transparent;
