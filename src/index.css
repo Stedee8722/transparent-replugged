@@ -1,54 +1,89 @@
-:root,
-.theme-dark,
-.theme-light {
-  /* Main */
-  --background-primary: transparent;
-  --background-secondary: transparent;
-  --background-secondary-alt: transparent;
-  --background-tertiary: transparent;
-  /* Scrollbars */
-  --scrollbar-auto-thumb: #000d;
-  --scrollbar-auto-track: #0007;
-  /* User popout */
-  /*--profile-body-background-color: transparent;*/
-  --popout: transparent;
-  --popoutsize: auto;
-  --backgroundposition: center;
-  --popoutblur: 10px;
+/**
+ * @name CustomTheme
+ * @author Stedee
+ * @description Add a custom theme
+ * @version 0.0.1
+ */
 
-  /* Misc */
-  --modal-background: transparent;
-  --modal-footer-background: transparent;
-}
+ :root,
+ .theme-dark,
+ .theme-light {
+   /* Main */
+   --background-primary: rgba(0, 0, 0, 0) !important;
+   --background-secondary: rgba(0, 0, 0, 0) !important;
+   --background-secondary-alt: rgba(0, 0, 0, 0) !important;
+   --background-tertiary: rgba(0, 0, 0, 0) !important;
+   /* Scrollbars */
+   --scrollbar-auto-thumb: rgb(67, 68, 69);
+   --scrollbar-auto-track: rgba(71, 71, 71, 0.1);
+   /* User popout */
+   /*--profile-body-background-color: transparent;*/
+   --popout: rgba(0, 0, 0, 0.1) !important;;
+   --popoutsize: auto;
+   --backgroundposition: center;
+   --popoutblur: 10px;
+ 
+   /* Misc */
+   --modal-background: rgba(0, 0, 0, 0.1) !important;
+   --modal-footer-background: rgba(0, 0, 0, 0.1) !important;
+ }
+ 
+ .emojiItem_b15dee.emojiItemSelected__1a09a {
+  background-color: rgba(0, 0, 0, 0.6) !important;
+ }
 
-/* Background image */
-.appMount-2yBXZl {
-  background-size: cover !important;
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    /*Change the alpha of both to dim the background */
-      url("https://i.redd.it/ny0uggux78y41.png") no-repeat center; /*Change the url to any image you want */
-}
+ .channelHeader__5d30c{
+  background-color: rgba(0, 0, 0, 0.8) !important;
+  backdrop-filter: blur(10px);
+ }
 
-/* Discord why are you like this */
-/* Stuff that doesn't get its color from a variable */
-.chat-2ZfjoI>*, .chat-2ZfjoI>*>* /* Stuff that "overwrites" the chat window such as server Q&A / Community search */ {
-  background: transparent !important;
-}
+ .profileColors__2e2f0 {
+  --profile-gradient-primary-color: rgba(0, 0, 0, 0.5) !important;
+ }
 
-/* User popout roles */
-.role-2TIOKu {
-  border: 1px solid;
-  border-color: hsla(0, 0%, 100%, 0.2) !important;
-}
-
-/* Dim stuff */
-.layer-2BGhQ8:not(.disabledPointerEvents-cGr1My)>*>*, /* Popouts */
-  .contentColumn-1C7as6, .background-2avFV1, /* Bunch of background */
-  .connectionHeader-Ixbb1s, .connectionOptionsWrapper-3aVWcp, .integrationsWrapper-1V-5L9, .metadataContainer-35U-On, .connectContainer-1hylYM, /* Connection menu */
-  .replugged-quickcss-wrapper, /* Quick CSS */
-  .scrollableContainer-15eg7h, .autocomplete-3NRXG8, /* Message area */
-  .expandedFolderBackground-1kSAf6:not(.collapsed-uGXEbi), /* Folder background */
-  .grid-1aWVsE, .wrapper-1FP9YQ, /* Embeds */
-  .scrollbarGhostHairline-2LpzZ9, .inline /* Code blocks */ {
-  background-color: #0007 !important;
-}
+ .autocomplete_df266d, .outerWrapper__08924, .wrapper_d2d2dd, .recentMentionsPopout__826a9 {
+   background-color: rgba(0, 0, 0, 0.1) !important;
+   backdrop-filter: blur(2px);
+ }
+ 
+ .container_b181b6, .forumOrHome__75784 {
+   background-color: transparent !important;
+ }
+ 
+ /* Background image */
+ .appMount_fae9dd {
+   background-size: cover !important;
+   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+     /*Change the alpha of both to dim the background */
+       url("https://i.redd.it/ny0uggux78y41.png") no-repeat center; /*Change the url to any image you want */
+ }
+ 
+ /* Discord why are you like this */
+ /* Stuff that doesn't get its color from a variable */
+ .chat-2ZfjoI>*, .chat-2ZfjoI>*>* /* Stuff that "overwrites" the chat window such as server Q&A / Community search */ {
+   background: transparent !important;
+ }
+ 
+ .themedBackground__6b1b6 {
+   margin-bottom: 24px;
+   background-color: rgba(8, 8, 8, 0.867);
+ }
+ 
+ /* User popout roles */
+ .role-2TIOKu {
+   border: 1px solid;
+   border-color: hsla(0, 0%, 100%, 0.2) !important;
+ }
+ 
+ /* Dim stuff */
+ .layer-2BGhQ8:not(.disabledPointerEvents-cGr1My)>*>*, /* Popouts */
+   .contentColumn-1C7as6, .background-2avFV1, /* Bunch of background */
+   .connectionHeader-Ixbb1s, .connectionOptionsWrapper-3aVWcp, .integrationsWrapper-1V-5L9, .metadataContainer-35U-On, .connectContainer-1hylYM, /* Connection menu */
+   .replugged-quickcss-wrapper, /* Quick CSS */
+   .scrollableContainer-15eg7h, .autocomplete-3NRXG8, /* Message area */
+   .expandedFolderBackground-1kSAf6:not(.collapsed-uGXEbi), /* Folder background */
+   .grid-1aWVsE, .wrapper-1FP9YQ, /* Embeds */
+   .scrollbarGhostHairline-2LpzZ9, .inline /* Code blocks */ {
+   background-color: rgba(0, 0, 0, 0.467) !important;
+ }
+ 
