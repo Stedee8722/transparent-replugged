@@ -32,7 +32,7 @@
   background-color: rgba(0, 0, 0, 0.6) !important;
  }
 
- .channelHeader__5d30c{
+ .channelHeader__5d30c {
   background-color: rgba(0, 0, 0, 0.8) !important;
   backdrop-filter: blur(10px);
  }
@@ -46,7 +46,15 @@
    backdrop-filter: blur(2px);
  }
  
- .container_b181b6, .forumOrHome__75784 {
+ .role__631a3, .textarea_c5a7a3 {
+   background-color: rgba(82, 82, 82, 0.2) !important;
+ }
+
+ .root_a28985, .selected__90dd8 {
+  background-color: rgba(28, 28, 28, 0.823) !important;
+ }
+
+ .container_b181b6, .forumOrHome__75784, .header__60bef, .content__1a4fe, .chat__52833 {
    background-color: transparent !important;
  }
  
