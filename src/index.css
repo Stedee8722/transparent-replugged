@@ -28,26 +28,79 @@
    --modal-footer-background: rgba(0, 0, 0, 0.1) !important;
  }
  
- .emojiItem_b15dee.emojiItemSelected__1a09a {
+ /*.scroller_f0f183 {
+  
+ }
+
+ .scrollerBase_dc3aa9 {
+
+ }*/
+
+ .attachButton_b1db83 {
+  background-color: transparent !important;
+ }
+
+ .contentWrapper__321ed{
+  backdrop-filter: blur(2px) !important;
+ }
+
+ .emojiItemSelected__1a09a {
   background-color: rgba(0, 0, 0, 0.6) !important;
  }
 
- .channelHeader__5d30c {
+ /*.userProfileInnerThemedNonPremium__3d0a6 {
+  backdrop-filter: blur(10px) !important;
+ } */
+
+ .channelHeader__5d30c, .header_f5cc88, .header__53b07, .expandedFolderBackground__1bec6 {
   background-color: rgba(0, 0, 0, 0.8) !important;
-  backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px) !important;
  }
 
+ .grid_c7c4e6 {
+  background-color: rgba(28, 28, 28, 0.5) !important;
+  backdrop-filter: blur(10px) !important;
+  border-radius: 0px 10px 10px 0px;
+ }
+
+ .popout_a6e77f, .messagesPopout__22763, .list__19127, .header_ca85b3 {
+  background-color: rgba(0, 0, 0, 0.2) !important;
+  backdrop-filter: blur(10px) !important;
+ }
+ 
  .profileColors__2e2f0 {
   --profile-gradient-primary-color: rgba(0, 0, 0, 0.5) !important;
  }
 
- .autocomplete_df266d, .outerWrapper__08924, .wrapper_d2d2dd, .recentMentionsPopout__826a9 {
+ .container__6604b, .section_efc22d {
+  background-color: rgba(0, 0, 0, 0.5) !important;
+ }
+
+ .autocomplete_df266d, .outerWrapper__08924, .wrapper_d2d2dd, .recentMentionsPopout__826a9, .pageWrapper_fef757 {
    background-color: rgba(0, 0, 0, 0.1) !important;
-   backdrop-filter: blur(2px);
+   backdrop-filter: blur(2px) !important;
  }
  
+ .none {
+  background-color: rgba(82, 82, 82, 0.2);
+  border-radius: 5px;
+ }
+
  .role__631a3, .textarea_c5a7a3 {
    background-color: rgba(82, 82, 82, 0.2) !important;
+ }
+
+ .subtitle__89b16, .sampleLink__771c4, .inputInner__2e566, .subtitle_a75f7f, .skip_f687eb, .subtitle__963da, .input_d266e7, .label__5447e, .guidelines__7b1b1, .text-sm-normal_d9d853, .formTitle_ba6f05, .optionHeader_b6da7f {
+  color: rgb(215, 215, 215) !important;
+ }
+
+ .container__0d1a7 {
+  background-color: rgba(0, 0, 0, 0.2) !important;
+  backdrop-filter: blur(10px) !important;
+ }
+
+ .title__23c2d, .footerTitle_ec7d67, .text__43e5f, .title_a58c92, .title_cba92b, .title__92748, .rowText_e87737, .backButton__576ea {
+  color: rgb(255, 255, 255) !important;
  }
 
  .root_a28985, .selected__90dd8 {
