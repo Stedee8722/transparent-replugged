@@ -1,8 +1,8 @@
 /**
- * @name CustomTheme
+ * @name OneShotPuzzleBackground
  * @author Stedee
- * @description Add a custom theme
- * @version 0.0.1
+ * @description Add OneShot puzzle theme with transparent background.
+ * @version 1.0.3
  */
 
  :root,
@@ -136,7 +136,7 @@
   border-bottom-right-radius: 10px !important;
  }
 
- .scroller_ac6d1c {
+ .autocompleteInner_ad9e21 {
   background-color: rgba(28, 28, 28, 0.5) !important;
   border-radius: 10px !important;
  }
