@@ -68,8 +68,9 @@
   backdrop-filter: blur(10px) !important;
  }
  
- .profileColors__2e2f0 {
+ .profileColors__2e2f0, .userProfileInnerThemedNonPremium_ed9022 {
   --profile-gradient-primary-color: rgba(0, 0, 0, 0.5) !important;
+  backdrop-filter: blur(2px);
  }
 
  .container__6604b, .section_efc22d, .themedBackground__3a4c0 {
@@ -81,7 +82,7 @@
    backdrop-filter: blur(2px) !important;
  }
  
- .none {
+ .rolePill_f50ff5 {
   background-color: rgba(82, 82, 82, 0.2);
   border-radius: 5px;
  }
