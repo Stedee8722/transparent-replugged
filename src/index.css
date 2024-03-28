@@ -72,7 +72,7 @@
   --profile-gradient-primary-color: rgba(0, 0, 0, 0.5) !important;
  }
 
- .container__6604b, .section_efc22d {
+ .container__6604b, .section_efc22d, .themedBackground__3a4c0 {
   background-color: rgba(0, 0, 0, 0.5) !important;
  }
 
@@ -94,7 +94,7 @@
   color: rgb(215, 215, 215) !important;
  }
 
- .container__0d1a7 {
+ .container__0d1a7, .pageWrapper_c182d3, .messagesPopoutWrap__10dd1 {
   background-color: rgba(0, 0, 0, 0.2) !important;
   backdrop-filter: blur(10px) !important;
  }
@@ -111,8 +111,18 @@
    background-color: transparent !important;
  }
  
+ .outerWrapper__99794 {
+  background-color: rgba(28, 28, 28, 0.2) !important;
+  backdrop-filter: blur(10px) !important;
+ }
+
+ .scroller_ac6d1c {
+  background-color: rgba(28, 28, 28, 0.5) !important;
+  border-radius: 10px;
+ }
+
  /* Background image */
- .appMount_fae9dd {
+ .appMount_c99875 {
    background-size: cover !important;
    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
      /*Change the alpha of both to dim the background */
