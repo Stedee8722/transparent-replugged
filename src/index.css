@@ -111,14 +111,33 @@
    background-color: transparent !important;
  }
  
- .outerWrapper__99794 {
+ .outerWrapper__99794, .autocomplete__743a5 {
   background-color: rgba(28, 28, 28, 0.2) !important;
   backdrop-filter: blur(10px) !important;
  }
 
+ .embedCard__8f52c {
+  background-color: rgba(28, 28, 28, 0.2) !important;
+  backdrop-filter: blur(10px) !important;
+  border-top: 10px !important;
+ }
+
+ .footerContainer_b2e9f6 {
+  background-color: rgba(28, 28, 28, 0.5) !important;
+  backdrop-filter: blur(10px) !important;
+  border-bottom: 10px !important;
+ }
+
+ .grid__35551 {
+  background-color: rgba(28, 28, 28, 0.2) !important;
+  backdrop-filter: blur(10px) !important;
+  border-top-right-radius: 10px !important;
+  border-bottom-right-radius: 10px !important;
+ }
+
  .scroller_ac6d1c {
   background-color: rgba(28, 28, 28, 0.5) !important;
-  border-radius: 10px;
+  border-radius: 10px !important;
  }
 
  /* Background image */
