@@ -2,7 +2,7 @@
  * @name OneShotPuzzleBackground
  * @author Stedee
  * @description Add OneShot puzzle theme with transparent background.
- * @version 1.0.3
+ * @version 1.0.4
  */
 
  :root,
@@ -35,6 +35,10 @@
  .scrollerBase_dc3aa9 {
 
  }*/
+
+ .bio_b1b425 {
+  color: rgba(255, 255, 255, 0.8) !important;
+ }
 
  .attachButton_b1db83 {
   background-color: transparent !important;
@@ -108,7 +112,7 @@
   background-color: rgba(28, 28, 28, 0.823) !important;
  }
 
- .container_b181b6, .forumOrHome__8b95a, .container_b92032, .header__60bef, .content__1a4fe, .chat__52833 {
+ .container__03ec9, .container__26baa, .container_b181b6, .forumOrHome__8b95a, .container_b92032, .header__60bef, .content__1a4fe, .chat__52833 {
    background-color: transparent !important;
  }
  
