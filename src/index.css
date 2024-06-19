@@ -28,125 +28,125 @@
    --modal-footer-background: rgba(0, 0, 0, 0.1) !important;
  }
  
- /*.scroller_f0f183 {
+ /*.scroller_c43953 {
   
  }
 
- .scrollerBase_dc3aa9 {
+ .scrollerBase_eed6a8 {
 
  }*/
 
- .bio_b1b425 {
+ .bio_c6b11b {
   color: rgba(255, 255, 255, 0.8) !important;
  }
 
- .attachButton_b1db83 {
+ .attachButton_f298d4 {
   background-color: transparent !important;
  }
 
- .contentWrapper__321ed{
+ .contentWrapper_af5dbb{
   backdrop-filter: blur(2px) !important;
  }
 
- .emojiItemSelected__1a09a {
+ .emojiItemSelected_fbfedd {
   background-color: rgba(0, 0, 0, 0.6) !important;
  }
 
- /*.userProfileInnerThemedNonPremium__3d0a6 {
+ /*.userProfileInnerThemedNonPremium_c69a7b {
   backdrop-filter: blur(10px) !important;
  } */
 
- .emojiInput__4fe54, .channelHeader__5d30c, .header_f5cc88, .header__53b07, .expandedFolderBackground__1bec6 {
+ .emojiInput_dc1809, .channelHeader_f3978e, .header_ac90a2, .header_e664f3, .expandedFolderBackground_bc7085 {
   background-color: rgba(0, 0, 0, 0.8) !important;
   backdrop-filter: blur(10px) !important;
  }
 
- .grid_c7c4e6 {
+ .grid_ad0b71 {
   background-color: rgba(28, 28, 28, 0.5) !important;
   backdrop-filter: blur(10px) !important;
   border-radius: 0px 10px 10px 0px;
  }
 
- .popout_a6e77f, .messagesPopout__22763, .list__19127, .header_ca85b3 {
+ .popout_f6639d, .messagesPopout_ac90a2, .list_c6aa12, .header_b385c8 {
   background-color: rgba(0, 0, 0, 0.2) !important;
   backdrop-filter: blur(10px) !important;
  }
  
- .profileColors__2e2f0, .userProfileInnerThemedNonPremium_ed9022 {
-  --profile-gradient-primary-color: rgba(0, 0, 0, 0.5) !important;
-  backdrop-filter: blur(2px);
+ .profileColors_ac6ab4, .userProfileInnerThemedNonPremium_c69a7b {
+  --profile-gradient-primary-color: rgba(35, 35, 35, 0.1) !important;
+  backdrop-filter: blur(5px);
  }
 
- .container__6604b, .section_efc22d, .themedBackground__3a4c0 {
-  background-color: rgba(0, 0, 0, 0.5) !important;
+ .container_acb8b3, .section_cd82a7, .themedBackground_d0696b, .body_b9fccc {
+  background-color: rgba(0, 0, 0, 0.1) !important;
  }
 
- .autocomplete_df266d, .outerWrapper__08924, .wrapper_d2d2dd, .recentMentionsPopout__826a9, .pageWrapper_fef757 {
+ .autocomplete_f23da8, .outerWrapper_fe2299, .wrapper_fe2299, .recentMentionsPopout_ddb5b4, .pageWrapper_a3a4ce {
    background-color: rgba(0, 0, 0, 0.1) !important;
    backdrop-filter: blur(2px) !important;
  }
  
- .rolePill_f50ff5 {
+ .rolePill_fa2f72 {
   background-color: rgba(82, 82, 82, 0.2);
   border-radius: 5px;
  }
 
- .role__631a3, .textarea_c5a7a3 {
+ .role_f9575e, .textarea_dde0a8 {
    background-color: rgba(82, 82, 82, 0.2) !important;
  }
 
- .subtitle__89b16, .sampleLink__771c4, .inputInner__2e566, .subtitle_a75f7f, .skip_f687eb, .subtitle__963da, .input_d266e7, .label__5447e, .guidelines__7b1b1, .text-sm-normal_d9d853, .formTitle_ba6f05, .optionHeader_b6da7f {
+ .subtitle_fc9dae, .sampleLink_e8a9c7, .inputInner_e8a9c7, .subtitle_f5507e, .skip_f5507e, .subtitle_c1ee6b, .input_f8bc55, .label_c46f6a, .guidelines_c1ee6b, .text-sm-normal__95a78, .formTitle_e8a9c7, .optionHeader_fc9dae {
   color: rgb(215, 215, 215) !important;
  }
 
- .container__0d1a7, .pageWrapper_c182d3, .messagesPopoutWrap__10dd1 {
+ .container_a4d79f, .pageWrapper_a3a4ce, .messagesPopoutWrap_ac90a2 {
   background-color: rgba(0, 0, 0, 0.2) !important;
   backdrop-filter: blur(10px) !important;
  }
 
- .title__23c2d, .footerTitle_ec7d67, .text__43e5f, .title_a58c92, .title_cba92b, .title__92748, .rowText_e87737, .backButton__576ea {
+ .title_fc9dae, .footerTitle_fc9dae, .text_a47d49, .title_f5507e, .title_c1ee6b, .title_e8a9c7, .rowText_e8a9c7, .backButton_f5507e {
   color: rgb(255, 255, 255) !important;
  }
 
- .root_a28985, .selected__90dd8 {
+ .root_f9a4c9, .selected_bd5e1f {
   background-color: rgba(28, 28, 28, 0.823) !important;
  }
 
- .container__03ec9, .container__26baa, .container_b181b6, .forumOrHome__8b95a, .container_b92032, .header__60bef, .content__1a4fe, .chat__52833 {
+ .container_f1fd9c, .container_e44302, .container_a6d69a, .forumOrHome_ff5f90, .container_a6d69a, .header_f1fd9c, .content_a7d72e, .chat_a7d72e {
    background-color: transparent !important;
  }
  
- .outerWrapper__99794, .autocomplete__743a5 {
+ .outerWrapper_fe2299, .autocomplete_f23da8 {
   background-color: rgba(28, 28, 28, 0.2) !important;
   backdrop-filter: blur(10px) !important;
  }
 
- .embedCard__8f52c {
+ .embedCard_bf4197 {
   background-color: rgba(28, 28, 28, 0.2) !important;
   backdrop-filter: blur(10px) !important;
   border-top: 10px !important;
  }
 
- .footerContainer_b2e9f6 {
+ .footerContainer_bf4197 {
   background-color: rgba(28, 28, 28, 0.5) !important;
   backdrop-filter: blur(10px) !important;
   border-bottom: 10px !important;
  }
 
- .grid__35551 {
+ .grid_ad0b71 {
   background-color: rgba(28, 28, 28, 0.2) !important;
   backdrop-filter: blur(10px) !important;
   border-top-right-radius: 10px !important;
   border-bottom-right-radius: 10px !important;
  }
 
- .autocompleteInner_ad9e21 {
+ .autocompleteInner_f23da8 {
   background-color: rgba(28, 28, 28, 0.5) !important;
   border-radius: 10px !important;
  }
 
  /* Background image */
- .appMount_c99875 {
+ .appMount_ea7e65 {
    background-size: cover !important;
    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
      /*Change the alpha of both to dim the background */
@@ -155,30 +155,31 @@
  
  /* Discord why are you like this */
  /* Stuff that doesn't get its color from a variable */
- .chat-2ZfjoI>*, .chat-2ZfjoI>*>* /* Stuff that "overwrites" the chat window such as server Q&A / Community search */ {
+ .chat_a7d72e>*, .chat_a7d72e>*>* /* Stuff that "overwrites" the chat window such as server Q&A / Community search */ {
    background: transparent !important;
  }
  
- .themedBackground__6b1b6 {
+ /*.themedBackground_d0696b {
    margin-bottom: 24px;
    background-color: rgba(8, 8, 8, 0.867);
- }
+ }*/
  
  /* User popout roles */
- .role-2TIOKu {
+ .role_f9575e {
    border: 1px solid;
    border-color: hsla(0, 0%, 100%, 0.2) !important;
  }
  
  /* Dim stuff */
- .layer-2BGhQ8:not(.disabledPointerEvents-cGr1My)>*>*, /* Popouts */
-   .contentColumn-1C7as6, .background-2avFV1, /* Bunch of background */
-   .connectionHeader-Ixbb1s, .connectionOptionsWrapper-3aVWcp, .integrationsWrapper-1V-5L9, .metadataContainer-35U-On, .connectContainer-1hylYM, /* Connection menu */
+ .layer_cd0de5:not(.disabledPointerEvents_cd0de5)>*>*, /* Popouts */
+   .contentColumn_c25c6d, .background_e2cc4b, /* Bunch of background */
+   .connectionHeader_e2a436, .connectionOptionsWrapper_e2a436, .integrationsWrapper_e2a436, .metadataContainer_e2a436, .connectContainer_e2a436, /* Connection menu */
    .replugged-quickcss-wrapper, /* Quick CSS */
-   .scrollableContainer-15eg7h, .autocomplete-3NRXG8, /* Message area */
-   .expandedFolderBackground-1kSAf6:not(.collapsed-uGXEbi), /* Folder background */
-   .grid-1aWVsE, .wrapper-1FP9YQ, /* Embeds */
-   .scrollbarGhostHairline-2LpzZ9, .inline /* Code blocks */ {
-   background-color: rgba(0, 0, 0, 0.467) !important;
+   .scrollableContainer_d0696b, .autocomplete_f23da8, /* Message area */
+   .expandedFolderBackground_bc7085:not(.collapsed_bc7085), /* Folder background */
+   .grid_ad0b71, .wrapper_f316dd, /* Embeds */
+   .scrollbarGhostHairline_c858ce, .inline /* Code blocks */ {
+   background-color: rgba(0, 0, 0, 0.6);
+   backdrop-filter: blur(5px);
  }
  
