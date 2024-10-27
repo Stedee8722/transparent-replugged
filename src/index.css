@@ -44,8 +44,8 @@
   background-color: transparent !important;
  }
 
- .contentWrapper_af5dbb{
-  backdrop-filter: blur(2px) !important;
+ .contentWrapper_af5dbb {
+  backdrop-filter: blur(6px) !important;
  }
 
  .emojiItemSelected_fbfedd {
@@ -116,7 +116,7 @@
    background-color: transparent !important;
  }
  
- .outerWrapper_fe2299, .autocomplete_f23da8 {
+ .outerWrapper_fe2299, .autocomplete_f23da8, .themedBackground_bdf0de {
   background-color: rgba(28, 28, 28, 0.2) !important;
   backdrop-filter: blur(10px) !important;
  }
@@ -180,6 +180,5 @@
    .grid_ad0b71, .wrapper_f316dd, /* Embeds */
    .scrollbarGhostHairline_c858ce, .inline /* Code blocks */ {
    background-color: rgba(0, 0, 0, 0.6);
-   backdrop-filter: blur(5px);
  }
  
